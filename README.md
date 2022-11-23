@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sammyada
 - 👀 I’m interested in becoming a Software Engineer
-- 🌱 I’m currently learning Ruby & Python
+- 🌱 I’m currently learning/focusing on Backend Developement
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @ email: g.sammyada@gmail.com -or- Linkedin: Sam'Myada Gamble
+- 📫 How to reach me @ email: sammyada.g@gmail.com -or- Linkedin: Sam'Myada Gamble
 
 <!---
 Sammyada/Sammyada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
